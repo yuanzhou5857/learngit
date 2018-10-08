@@ -7,3 +7,4 @@ Git has a mutable index called stage.
 33
 dev
 feature
+Creating a new branch is quick AND simple.
